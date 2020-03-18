@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3127163-c61c-4fdf-94c6-2c2df77014d0" name="Default Changelist" comment="">
+      <change afterPath="$USER_HOME$/PycharmProjects/RR_PythonLab/Games for gamers only/Guess game from book.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/RR_PythonLab/Games for gamers only/Guess number game.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/RR_PythonLab/Games for gamers only/dragon Oh no.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/RR_PythonLab/Games for gamers only/hangman.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/RR_PythonLab/Games for gamers only/hangman2.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/RR_PythonLab/Games for gamers only/jokes.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/RR_PythonLab/Games for gamers only/tic tak TOE.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PycharmProjects/RR_PythonLab" />
+  </component>
+  <component name="ProjectId" id="1ZHZoBC25aJBdCPyhBHlSqGbQOR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/RR_PythonLab" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rishi\PycharmProjects\RR_PythonLab" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3127163-c61c-4fdf-94c6-2c2df77014d0" name="Default Changelist" comment="" />
+      <created>1584498153125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584498153125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1584499440020">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584499440020" />
+    <state x="782" y="456" key="Github.CreateGistDialog" timestamp="1584498766953">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="782" y="456" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584498766953" />
+    <state x="803" y="433" key="Github.ShareDialog" timestamp="1584499329142">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="803" y="433" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584499329142" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1584499442706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584499442706" />
+    <state x="661" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1584499478260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584499478260" />
+    <state x="623" y="259" key="search.everywhere.popup" timestamp="1584498991426">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="259" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584498991426" />
+  </component>
+</project>

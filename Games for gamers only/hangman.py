@@ -93,7 +93,7 @@ def getGuess(alreadyGuessed):
         elif guess in alreadyGuessed:
             print('You have already guessed that letter. Choose again.')
         elif guess not in 'abcdefghijklmnopqrstuvwxyz':
-            print (' Please enter a LETTER.')
+            print ('Please enter a LETTER.')
         else:
             return guess
 
@@ -124,9 +124,9 @@ while True:
             if secretWord[i] not in correctLetters:
                 foundAllLetters = False
                 break
-            if foundAllLetters:
-                print('Yes! The secret word is "' + secretWord + '"! You have won!')
-                gameIsDone = True
+        if foundAllLetters:
+            print('Yes! The secret word is "' + secretWord + '"! You have won!')
+            gameIsDone = True
     else:
         missedLetters = missedLetters + guess
 

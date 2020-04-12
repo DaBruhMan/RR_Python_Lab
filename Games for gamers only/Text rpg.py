@@ -7,18 +7,12 @@ import sys
 import os
 import time
 import random
-
+from Player Class import player
 screenWidth = 100
 
 #### PLAYER SETUP #####
-class player:
-    def __init__(self):
-        self.name = ''
-        self.hp = 0
-        self.mp = 0
-        self.status_effects = []
-        self.location = 'start'
-MyPlayer = player()
+Player_name = input("Enter your name: ")
+Player_name = player(Player_name, 100, 0, "none", "Outside district 5")
 
 #### Title Screen ####
 def title_screen_selections():
